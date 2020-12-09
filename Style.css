@@ -1,1 +1,32 @@
+h1{
+	border: 4px solid #000000;
+	padding: 7px ;
+	margin-left: 335px;
+	float: center;
+	display: inline-block;
+	background-color: transparent;
+	align-content:center;
+	font-size: 15px;
+	font-family: Bookman Old Style;
+	padding-left: 99px;
+	padding-right: 99px;
+}
+h2{
+	border: 4px solid #000000;
+	padding: 7px ;
+	margin-left: 325px;
+	float: center;
+	display: inline-block;
+	background-color: transparent;
+	align-content:center;
+	font-size: 15px;
+	padding-left: 25px;
+	font-family: Bookman Old Style;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+label{
 
+	padding-left: 25px;
+	font-family: Bookman Old Style;
+}
